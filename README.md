@@ -45,3 +45,6 @@ This project aims to:
    python DeAn.py
 4.  Launch the interactive app with Streamlit:
     streamlit run app.py
+
+kết quả:
+![image](https://github.com/user-attachments/assets/27232688-31a7-4c19-9013-a4ec64e11f3a)
