@@ -1,4 +1,4 @@
-# Risk-and-Porfolio-Recommendations
+![image](https://github.com/user-attachments/assets/de312cfc-b952-4698-8923-60b9b96e061f)# Risk-and-Porfolio-Recommendations
 
 Financial risk analysis and personalized investment portfolio recommendations using Python, machine learning, and hybrid recommendation systems.
 
@@ -46,5 +46,26 @@ This project aims to:
 4.  Launch the interactive app with Streamlit:
     streamlit run app.py
 
-kết quả:
+Result
+
+Risk evaluation:
+Decision Tree:
+![image](https://github.com/user-attachments/assets/89dfc80a-2d16-4240-84b7-5d17492b0d32)
+
+Random Forest:
+![image](https://github.com/user-attachments/assets/a1595a08-8029-4b2d-9dc8-b76f4e9515e5)
+
+
+Porfolio recommendation:
+Rule-based recommendation:
 ![image](https://github.com/user-attachments/assets/27232688-31a7-4c19-9013-a4ec64e11f3a)
+
+Content-based recommendation:
+![image](https://github.com/user-attachments/assets/352f72c5-2616-4446-a9c1-7d1e9f8e6bfc)
+
+Score-level fusion recommendation:
+![image](https://github.com/user-attachments/assets/1243480a-a70b-4413-8ab0-56ad5a33e92f) 
+
+
+
+
