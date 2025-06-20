@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/de312cfc-b952-4698-8923-60b9b96e061f)# Risk-and-Porfolio-Recommendations
+# Risk-and-Porfolio-Recommendations
+![image](https://github.com/user-attachments/assets/de312cfc-b952-4698-8923-60b9b96e061f)
 
 Financial risk analysis and personalized investment portfolio recommendations using Python, machine learning, and hybrid recommendation systems.
 
