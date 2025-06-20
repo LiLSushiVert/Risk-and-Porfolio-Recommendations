@@ -2,15 +2,12 @@
 
 Financial risk analysis and personalized investment portfolio recommendations using Python, machine learning, and hybrid recommendation systems.
 
- Project Overview
-
-This project aims to:
-
+ **Project Overview**:
 - Classify individual financial risk using machine learning models (Decision Tree and Random Forest).
 - Recommend personalized investment portfolios using a hybrid system combining Rule-Based and Content-Based methods (Score-Level Fusion).
 - Analyze and process real-world data from the **Bank Marketing Dataset** with over 4,000 customer records.
 
- Key Features
+ **Key Features**
 
  Financial risk classification with high accuracy (>98%) using Decision Tree & Random Forest.
  Personalized investment portfolio recommendation system with 7 risk-based categories.
@@ -18,7 +15,8 @@ This project aims to:
  Performance evaluation using **Accuracy**, **Precision**, **Recall**, and **F1-Score**.
  Scalable solution suitable for fintech and banking applications.
 
- Technologies Used
+
+ **Technologies Used**
 
 - Python
 - Pandas, NumPy
@@ -27,13 +25,14 @@ This project aims to:
 - Streamlit (for interactive visualization, optional)
 - Rule-based and Content-based recommendation logic
 
- Dataset
 
-- **Bank Marketing Dataset**
+ **Dataset**
+Bank Marketing Dataset
 - Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bank+marketing) *(or your data source if different)*
 - Includes demographics, account balances, and investment preferences.
 
- How to Run
+
+ **How to Run**
 
 1. Clone the repository:
    ```bash
@@ -46,9 +45,9 @@ This project aims to:
 4.  Launch the interactive app with Streamlit:
     streamlit run app.py
 
-Result
+**Result**
 
-Risk evaluation:
+- **Risk evaluation**:
 Decision Tree:
 
 ![image](https://github.com/user-attachments/assets/89dfc80a-2d16-4240-84b7-5d17492b0d32)
@@ -58,7 +57,7 @@ Random Forest:
 ![image](https://github.com/user-attachments/assets/a1595a08-8029-4b2d-9dc8-b76f4e9515e5)
 
 
-Porfolio recommendation:
+- **Porfolio recommendation**:
 
 Rule-based recommendation:
 
